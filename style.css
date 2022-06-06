@@ -1,0 +1,33 @@
+*{
+    background-color: rgb(255, 235, 208);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.proj_title{
+    text-align: center;
+}
+
+.rec_list{
+    font-size: 18px;
+    text-align: center;
+}
+
+.disclaimer{
+    text-align: center;
+}
+
+.rec_title{
+    text-align: center;
+}
+
+.rec_img{
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.act_rec{
+    margin-left: 400px;
+    margin-right: 400px;
+}
